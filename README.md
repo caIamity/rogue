@@ -1,3 +1,2 @@
 # rogue
-WIP
-use nodejs u loser
+WIP. use nodejs u loser
